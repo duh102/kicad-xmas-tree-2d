@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name xmas_tree_2d-rescue)(type Legacy)(uri ${KIPRJMOD}/xmas_tree_2d-rescue.lib)(options "")(descr ""))
+)
